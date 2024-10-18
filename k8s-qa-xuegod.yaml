@@ -14,7 +14,7 @@ spec:
         app: jenkins-demo
     spec:
       containers:
-      - image: xuegod/jenkins-demo:<BUILD_TAG>
+      - image: xuegod/jenkins-demo:<BUILD_TAG>   #更换镜像
         imagePullPolicy: IfNotPresent
         name: jenkins-demo
         env:
