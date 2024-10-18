@@ -26,7 +26,7 @@ The Go starter application has files as below:
 
 *   Godeps/
 
-        This directory contains the app's dependencies and is created by the Godep tool.
+        This directory contains the app's dependencies and is created by the Godep tool..
 
 
 
